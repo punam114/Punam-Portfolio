@@ -1,0 +1,27 @@
+{
+  "application": "CloudNotes",
+  "assessment_date": "2026-10-10",
+  "environment": "Production Simulated",
+  "cost_breakdown": {
+    "compute": {
+      "original_monthly_usd": 90.00,
+      "rightsized_monthly_usd": 62.00,
+      "savings_percentage": 31.1
+    },
+    "storage": {
+      "original_monthly_usd": 30.00,
+      "rightsized_monthly_usd": 22.00,
+      "savings_percentage": 26.6
+    },
+    "networking": {
+      "original_monthly_usd": 20.00,
+      "rightsized_monthly_usd": 14.00,
+      "savings_percentage": 30.0
+    }
+  },
+  "total_original_usd": 140.00,
+  "total_rightsized_usd": 98.00,
+  "total_savings_usd": 42.00,
+  "overall_savings_percentage": 30.0,
+  "budget_alert_threshold_usd": 100.00
+}
